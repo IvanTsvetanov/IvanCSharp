@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2017\Projects\Cfirst\Cfirst\bin\Debug\Cfirst.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Cfirst\Cfirst\bin\Debug\Cfirst.exe
+c:\users\admin\documents\visual studio 2017\Projects\Cfirst\Cfirst\bin\Debug\Cfirst.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Cfirst\Cfirst\obj\Debug\Cfirst.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\Cfirst\Cfirst\obj\Debug\Cfirst.exe
+c:\users\admin\documents\visual studio 2017\Projects\Cfirst\Cfirst\obj\Debug\Cfirst.pdb
